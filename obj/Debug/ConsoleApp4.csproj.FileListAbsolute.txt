@@ -1,0 +1,14 @@
+C:\Users\Aya\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Aya\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Aya\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Aya\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Aya\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Aya\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Aya\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\computer science fuclty\subjects\fuclty projects\algorizm project\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\computer science fuclty\subjects\fuclty projects\algorizm project\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\computer science fuclty\subjects\fuclty projects\algorizm project\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\computer science fuclty\subjects\fuclty projects\algorizm project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\computer science fuclty\subjects\fuclty projects\algorizm project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\computer science fuclty\subjects\fuclty projects\algorizm project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\computer science fuclty\subjects\fuclty projects\algorizm project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
